@@ -3,5 +3,5 @@
 
 ### Hi 👋, I'm Shoaib!
 
-- Full Stack Java - Software Engineer at Wipro.
-- 3+ years of industry experience, currently working in Telecom Domain.
+- Senior Software Engineer - Full Stack Java Developer.
+- 3+ years of developing and delivering enterprise applications.
