@@ -3,5 +3,5 @@
 
 ### Hi 👋, I'm Shoaib!
 
-- Senior Software Engineer - Full Stack Java Developer.
-- 3+ years of developing and delivering enterprise applications.
+- Senior Software Engineer - Full Stack Java Developer + AI.
+- 5+ years of developing and delivering enterprise applications.
